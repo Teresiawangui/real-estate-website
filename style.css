@@ -1,0 +1,154 @@
+#Navbar{
+    gap: 5%;
+    display: flex;
+    
+}
+#pg1{
+    
+    padding-left: 35%;
+}
+.img{
+    width: 1800px;
+    height: 600px;
+    text-align: center;
+    border: solid 2px;
+    border-radius: 5%;
+}
+.pro{
+    display: flex;
+    gap: 15%;
+    padding-left: 10%;
+    text-align: center;
+}
+.sentence{
+padding-left: 35%;
+
+}
+#images{
+    display: flex;
+    gap: 10%;
+    padding-left: 25%;
+}
+.img2{
+    width: 280px;
+    height: 230px;
+}
+#images2{
+    display: flex;
+    gap: 3%;
+    padding-left: 20%;
+}
+#explore{
+    padding-left: 20%;
+}
+.luxury{
+    display: flex;
+    gap: 5%;
+    padding-left: 20%;
+}
+.pg4{
+    width: 550px;
+    height: 450px;
+}
+.detail{
+    padding-left: 20%;
+}
+#images5{
+    display: flex;
+    gap: 5%;
+    padding-left: 10%;
+}
+.extra{
+    display: flex;
+    gap: 8%;
+    padding-left: 15%;
+}
+.fade{
+    display: flex;
+    gap: 2%;
+    padding-left: 10%;
+}
+.pg7{
+    padding-left: 5%;
+    text-align: center;
+}
+#footer{
+    display: flex;
+    gap: 5%;
+    padding-left: 10%;
+}
+#footer2{
+    padding-left: 10%;
+}
+span{
+    color: cornflowerblue;
+}
+@media only screen and (min-width: 280px) and (max-width: 412px) {
+
+    .img{
+        width: 650px;
+        height: 330px;
+    
+    
+        border-radius: 5%;
+    } 
+    #images2{
+        display: flex;
+        gap: 3%;
+
+
+    
+    }  
+    #images2{
+        display: flex;
+        gap: 3%;
+        
+    }
+
+#footer2{
+
+    width: 550px;
+    height: 200px;
+    border: solid 2px;
+
+}
+#images5{
+    display: flex;
+    gap: 5%;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 45%;
+
+}
+.fade{
+    display: flex;
+    gap: 2%;
+    width: 200px;
+    height: 150px;
+
+}
+.pg7{
+    margin-top: 90%;
+    text-align: center;
+}
+#footer{
+    display: flex;
+    gap: 5%;
+    margin-top: 20%;
+}
+.extra{
+    display: flex;
+    gap: 8%;
+margin-top: 100%;
+}
+.friends{
+    width: 200px;
+    height: 200px;
+}
+.img2{
+    width: 200px;
+    height: 150px;
+}
+
+}
+
